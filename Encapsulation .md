@@ -35,6 +35,7 @@ rect = Rectangle(10, 5)
 ~~~
 
 ## Output
+<img width="559" height="269" alt="image" src="https://github.com/user-attachments/assets/69edbc84-12ad-44f2-9080-5a02ba1e0a07" />
 
 ## Result
 Thus, The Python program to implement Encapsulation in Python by defining a class Rectangle with private member variables __length and __breadth. was executed successfully.
