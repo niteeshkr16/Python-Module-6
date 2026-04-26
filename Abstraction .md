@@ -61,6 +61,7 @@ print(circ.calculate_area())
 ~~~
 
 ## Output
+<img width="716" height="667" alt="image" src="https://github.com/user-attachments/assets/12b839be-ee75-467b-9ed6-1af510a6e522" />
 
 ## Result
 Thus, The Python program to create an abstract class named Shape with an abstract method calculate_area, and implement this method in two subclasses: Rectangle and Circle was executed successfully.
