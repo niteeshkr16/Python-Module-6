@@ -31,6 +31,7 @@ for animal in (obj_goldfish, obj_hammerhead):
 ~~~
 
 ## OUTPUT
+<img width="629" height="390" alt="image" src="https://github.com/user-attachments/assets/b681601d-baeb-46d1-977e-fd06bf046b47" />
 
 ## RESULT
 Thus, The Python program that demonstrates class inheritance by creating a parent class Fish with a method type, and a child class Shark that overrides the type method was executed successfully.
