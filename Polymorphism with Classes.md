@@ -53,6 +53,7 @@ func(obj_mango)
 ~~~
 
 ## Output
+<img width="667" height="673" alt="image" src="https://github.com/user-attachments/assets/4b1b60b8-b4f4-4845-b546-66eb3ff6b310" />
 
 ## Result
 Thus, The Pythom program to create two specific classes — Beans and Mango. Then, create a generic function that can accept any object and determine its type (Fruit or Vegetable) and color, using polymorphismwas executed successfully.
